@@ -1,0 +1,1 @@
+export const getPadTimer = (time) => time.toString().padStart(2, '0')
